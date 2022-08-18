@@ -132,10 +132,10 @@ week late with a penalty of 10%.
 **Schedule**
 
 Day     | Lecture Topic                        | Reading Due                   | Assignment Due
-Aug. 24 | Introduction |                               |
-Aug. 26 | Compiling from LVar to x86 | Ch. 1          |
+Aug. 24 | Introduction                         |                               |
+Aug. 26 | Compiling from LVar to x86           | Ch. 1                         |
 Aug. 31 | Uniquify, Remove Complex Operands, Explicate Control | Ch. 2         |
-Sep. 2  | Select Instructions, Assign Homes, Patch Instructions, Prelude & Conclusion | | 
+Sep. 2  | Select Instructions through Prelude & Conclusion |                   | 
 Sep. 6  |                                      |                               | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/435) or [Python](https://autograder.luddy.indiana.edu/web/project/432)
 
 
