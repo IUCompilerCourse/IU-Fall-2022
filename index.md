@@ -49,7 +49,7 @@ github:
 **Office hours**
 
 * Jeremy Siek (jsiek): TBD, in Luddy 3014 (or nearby).
-* Kartik Sabharwal (ksabharw): TBD, Luddy 3014
+* Kartik Sabharwal (ksabharw): Wednesdays and Fridays 1:30-2:30pm, Luddy 3014.
 * Chaitanya Koparkar (ckoparka): Mondays 9-11am, Luddy 3014.
 
 **Topics:**
