@@ -28,8 +28,13 @@ required.
 
 * The Racket version of the textbook for the course available
   [here](https://www.dropbox.com/s/ktdw8j0adcc44r0/book.pdf?dl=1).
+  The Racket version will be published by MIT Press in February 2023
+  (sorry, too late for this year!)  but it is already available for
+  pre-order on [Amazon](https://www.amazon.com/dp/0262047764/).
+  
 * The Python version of the textbook for the course available
   [here](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1).
+  The Python version will be published by MIT Press sometime in 2023.
 
 If you have suggestions for improvement, please either send an email
 to Jeremy or, even better, make edits to a branch of the book and
