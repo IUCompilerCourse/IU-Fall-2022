@@ -142,7 +142,7 @@ Aug. 25 | [Compiling from LVar to x86](https://docs.google.com/presentation/d/1K
 Aug. 30 | [Uniquify, Remove Complex Operands, Explicate Control](https://docs.google.com/presentation/d/1KIFtThQVM-u9DVttCT4q_68CVCTlIq_WCUwBOhdaB3o/edit?usp=sharing) | Ch. 2         |
 Sep. 1  | [Select Instructions through Prelude & Conclusion](https://docs.google.com/presentation/d/14zFBq0GCX8XLU9__ts3ktA--_b9ARIcKDQjYLYiLy14/edit?usp=sharing) |                   | 
 Sep. 5  |                                      |                               | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/435) or [Python](https://autograder.luddy.indiana.edu/web/project/432)
-
+Sep. 6 | [Register Allocation: liveness, interference](https://docs.google.com/presentation/d/1jL4M6G6DDnfqOPsCab9_6k7PcV_wRBd4p9Xn2LzobOE/edit?usp=sharing)  |         | 
 
 **Resources:**
 
