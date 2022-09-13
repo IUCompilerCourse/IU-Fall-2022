@@ -144,7 +144,7 @@ Sep. 1  | [Select Instructions through Prelude & Conclusion](https://docs.google
 Sep. 5  |                                      |                               | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/435) or [Python](https://autograder.luddy.indiana.edu/web/project/432)
 Sep. 6 | [Register Allocation: liveness, interference](https://docs.google.com/presentation/d/1jL4M6G6DDnfqOPsCab9_6k7PcV_wRBd4p9Xn2LzobOE/edit?usp=sharing) | Ch. Reg. Alloc. | 
 Sep. 8 | Code Review: Integers and Variables   |     |
-Sep. 13 | Register Allocation: graph coloring  |                   |
+Sep. 13 | [Register Allocation: graph coloring](https://docs.google.com/presentation/d/1qPKUGZnqh6ggfP5_emHVJhSTyPRI0iD02jRTdB9mbwo/edit?usp=sharing)  |                   |
 Sep. 15 | The L_If language & type checking  |                   |
 Sep. 19 |                                      |                               |  Register Allocation, submit in Racket or Python
 
