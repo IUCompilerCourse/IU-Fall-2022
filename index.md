@@ -146,7 +146,7 @@ Sep. 6 | [Register Allocation: liveness, interference](https://docs.google.com/p
 Sep. 8 | Code Review: Integers and Variables   |     |
 Sep. 13 | [Register Allocation: graph coloring](https://docs.google.com/presentation/d/1qPKUGZnqh6ggfP5_emHVJhSTyPRI0iD02jRTdB9mbwo/edit?usp=sharing)  |                   |
 Sep. 15 | The L_If language & type checking  |                   |
-Sep. 19 |                                      |                               |  Register Allocation, submit in Racket or Python
+Sep. 19 |                                      |                               |  Register Allocation, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/436) or [Python](https://autograder.luddy.indiana.edu/web/project/429)
 
 
 **Resources:**
