@@ -151,7 +151,7 @@ Sep. 20 | [Conditionals and Explicate Control](https://docs.google.com/presentat
 Sep. 22 | Code Review: Register Allocation |
 Sep. 27 | Conditionals: Select Instr., Reg. Alloc., Opt. Jumps |
 Sep. 29 | Loops and Dataflow Analysis |
-Oct. 3  |                       | Booleans and Conditionals, submit in Racket or Python
+Oct. 3  |                       | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/437) or [Python](https://autograder.luddy.indiana.edu/web/project/434)
 
 **Resources:**
 
