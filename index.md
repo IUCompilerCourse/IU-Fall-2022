@@ -149,7 +149,7 @@ Sep. 15 | [L_If language, type checking, and x86_If](https://docs.google.com/pre
 Sep. 19 |                  |  Register Allocation, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/436) or [Python](https://autograder.luddy.indiana.edu/web/project/429)
 Sep. 20 | [Conditionals and Explicate Control](https://docs.google.com/presentation/d/1OALjNzmyLNt_Yg3eV_xjLx7ZxQ_8q2fLLi0I9nJjX9I/edit?usp=sharing) |
 Sep. 22 | Code Review: Register Allocation |
-Sep. 27 | Conditionals: Select Instr., Reg. Alloc., Opt. Jumps |
+Sep. 27 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.google.com/presentation/d/1Zcq1OpvmiMcHDkSZ0qjF2mdYNaov0t5R4qF0h66ryV8/edit?usp=sharing) |
 Sep. 29 | Loops and Dataflow Analysis |
 Oct. 3  |                       | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/437) or [Python](https://autograder.luddy.indiana.edu/web/project/434)
 
