@@ -156,7 +156,7 @@ Oct. 4 | [Loops: RCO, Explicate, Challenge](https://docs.google.com/presentation
 Oct. 6 | Tuples and Garbage Collection
 Oct. 17 | | Loops, submit in Racket or Python
 Oct. 18 | Review for Midterm
-Oct. 20 | **Midterm Exam** 
+Oct. 20 | **Midterm Exam**, Practice Exams: [Racket](./racket-midterm-Fall-2021.pdf), [Python](./python-midterm-Fall-2021.pdf)
 
 **Resources:**
 
