@@ -85,8 +85,8 @@ will take into account any technology problems that arrise, i.e., you
 won't fail the class because your internet went out.
 
 * Assignments (40%)
-* Midterm Exam (October 21, in class) (25%)
-* Final Exam (December 14, 12:35-2:35 PM, in class) (35%)
+* Midterm Exam (October 20, in class) (25%)
+* Final Exam (TBA) (35%)
 
 **Assignments:**
 
@@ -153,6 +153,10 @@ Sep. 27 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.go
 Sep. 29 | [Loops and Dataflow Analysis](https://docs.google.com/presentation/d/1RPT6wjE_MhMDPMet0nee5dv7WzaHD52shwSpUE84edM/edit?usp=sharing) |
 Oct. 3  |                       | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/437) or [Python](https://autograder.luddy.indiana.edu/web/project/434)
 Oct. 4 | [Loops: RCO, Explicate, Challenge](https://docs.google.com/presentation/d/18cN5P4pEuDds5U40Hqa6WDP-LdoyYBg2RCRML37QL5k/edit?usp=sharing) | 
+Oct. 6 | Tuples and Garbage Collection
+Oct. 17 | | Loops, submit in Racket or Python
+Oct. 18 | Review for Midterm
+Oct. 20 | **Midterm Exam** 
 
 **Resources:**
 
