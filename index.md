@@ -153,7 +153,9 @@ Sep. 27 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.go
 Sep. 29 | [Loops and Dataflow Analysis](https://docs.google.com/presentation/d/1RPT6wjE_MhMDPMet0nee5dv7WzaHD52shwSpUE84edM/edit?usp=sharing) |
 Oct. 3  |                       | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/437) or [Python](https://autograder.luddy.indiana.edu/web/project/434)
 Oct. 4 | [Loops: RCO, Explicate, Challenge](https://docs.google.com/presentation/d/18cN5P4pEuDds5U40Hqa6WDP-LdoyYBg2RCRML37QL5k/edit?usp=sharing) | 
-Oct. 6 | Tuples and Garbage Collection
+Oct. 6 | [Tuples and Garbage Collection](https://docs.google.com/presentation/d/1LTyqurU5c1MfzBJAjuuLJKZYAYqyjLggaZn-MIV4ocg/edit?usp=sharing)
+Oct. 11 | [Tuples and GC, cont'd](https://docs.google.com/presentation/d/1SYAsDrtEP0aY9R18oibuZvJkhVzeHlfthjR1_Kii6nM/edit?usp=sharing)
+Oct. 13 | TBD
 Oct. 17 | | Loops, submit in Racket or Python
 Oct. 18 | Review for Midterm
 Oct. 20 | **Midterm Exam**, Practice Exams: [Racket](./racket-midterm-Fall-2021.pdf), [Python](./python-midterm-Fall-2021.pdf)
