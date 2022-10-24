@@ -159,6 +159,9 @@ Oct. 13 | [Arrays, Structs, Generational GC](https://docs.google.com/presentatio
 Oct. 17 | | Loops, submit in Racket or Python
 Oct. 18 | Review for Midterm
 Oct. 20 | **Midterm Exam**, Practice Exams: [Racket](./racket-midterm-Fall-2021.pdf), [Python](./python-midterm-Fall-2021.pdf)
+Oct. 25 | Compiling Functions to x86 |
+Oct. 27 | Compiling Functions, cont'd |
+Oct. 31 |  | Tuples and GC, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/439) or [Python](https://autograder.luddy.indiana.edu/web/project/433)
 
 **Resources:**
 
