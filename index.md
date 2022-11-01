@@ -156,12 +156,15 @@ Oct. 4 | [Loops: RCO, Explicate, Challenge](https://docs.google.com/presentation
 Oct. 6 | [Tuples and Garbage Collection](https://docs.google.com/presentation/d/1LTyqurU5c1MfzBJAjuuLJKZYAYqyjLggaZn-MIV4ocg/edit?usp=sharing)
 Oct. 11 | [Tuples and GC, cont'd](https://docs.google.com/presentation/d/1SYAsDrtEP0aY9R18oibuZvJkhVzeHlfthjR1_Kii6nM/edit?usp=sharing)
 Oct. 13 | [Arrays, Structs, Generational GC](https://docs.google.com/presentation/d/1GHF-JTvsnJeOSBhAn9m1HHFVpRekVPO0QHSbkbg4vX8/edit?usp=sharing)
-Oct. 17 | | Loops, submit in Racket or Python
+Oct. 17 | | Loops, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/438) or [Python](https://autograder.luddy.indiana.edu/web/project/430)
 Oct. 18 | Review for Midterm
-Oct. 20 | **Midterm Exam**, Practice Exams: [Racket](./racket-midterm-Fall-2021.pdf), [Python](./python-midterm-Fall-2021.pdf)
+Oct. 20 | **Midterm Exam**, Practice Exams: [Racket](./racket-midterm-Fall-2021.pdf), [Python](./python-midterm-Fall-2021.pdf), Solutions: [Racket](./racket-midterm-Fall-2022.pdf), [Python](./python-midterm-Fall-2022.pdf)
 Oct. 25 | [Compiling Functions to x86](https://docs.google.com/presentation/d/12AD6drC7k9_7Ldk8yN8HWI6MBmzqfM5ec0pSP9pj_po/edit?usp=sharing) |
 Oct. 27 | Compiling Functions, cont'd |
 Oct. 31 |  | Tuples and GC, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/439) or [Python](https://autograder.luddy.indiana.edu/web/project/433)
+Nov. 1 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing)
+Nov. 14 | | Functions, submit in Racket or Python
+Nov. 18 | | Project Proposal Due
 
 **Resources:**
 
