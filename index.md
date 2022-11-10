@@ -163,6 +163,9 @@ Oct. 25 | [Compiling Functions to x86](https://docs.google.com/presentation/d/12
 Oct. 27 | Compiling Functions, cont'd |
 Oct. 31 |  | Tuples and GC, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/439) or [Python](https://autograder.luddy.indiana.edu/web/project/433)
 Nov. 1 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing)
+Nov. 3 | Lexically Scoped Functions, cont'd |
+Nov. 8 | [Optimize Closures](https://docs.google.com/presentation/d/1RQr5EJgQ1SvKUxBHtyQEhOlK0XW631Tgcw2dP7EtHOY/edit?usp=sharing) | 
+Nov. 10 | [Dynamic Typing](https://docs.google.com/presentation/d/1vhGJ54-ZBcW7GsS2nLhaqkAkFRDGdMRGk-Onv_jQYmI/edit?usp=sharing)
 Nov. 14 | | Functions, submit in Racket or Python
 Nov. 18 | | Project Proposal Due
 
