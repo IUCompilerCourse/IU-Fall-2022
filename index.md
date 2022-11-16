@@ -166,8 +166,10 @@ Nov. 1 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C3
 Nov. 3 | Lexically Scoped Functions, cont'd |
 Nov. 8 | [Optimize Closures](https://docs.google.com/presentation/d/1RQr5EJgQ1SvKUxBHtyQEhOlK0XW631Tgcw2dP7EtHOY/edit?usp=sharing) | 
 Nov. 10 | [Dynamic Typing](https://docs.google.com/presentation/d/1vhGJ54-ZBcW7GsS2nLhaqkAkFRDGdMRGk-Onv_jQYmI/edit?usp=sharing)
-Nov. 14 | | Functions, submit in Racket or Python
-Nov. 18 | | Project Proposal Due
+Nov. 14 | | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/440) or [Python](https://autograder.luddy.indiana.edu/web/project/431)
+Nov. 18 | | Due: Proposal for Final Project 
+Dec. 9  | | Due: Final Project
+Dec. 13 | **Final Exam** 12:40-2:40pm in class
 
 **Resources:**
 
