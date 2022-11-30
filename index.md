@@ -170,7 +170,7 @@ Nov. 14 | | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/w
 Nov. 15 | Code Review |
 Nov. 17 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiLxGOs_wSRc0i5xoLF1QYPL-A7i1U_Ag/edit?usp=sharing)
 Nov. 18 | | Due: Proposal for Final Project 
-Dec. 9  | | Due: Final Project
+Dec. 9  | | Due: [Final Project](https://iu.instructure.com/courses/2081910/assignments/14243610)
 Dec. 13 | **Final Exam** 12:40-2:40pm in class
 
 **Resources:**
