@@ -172,7 +172,7 @@ Nov. 17 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiL
 Nov. 18 |            | Due: Proposal for Final Project 
 Dec. 1  | [Generics](https://docs.google.com/presentation/d/1772Bs1E1XPF2duXquzGMEcjFt_a5Ssa0DgcureURfgI/edit?usp=sharing)
 Dec. 6  | No Class
-Dec. 8  | Review for Final Exam
+Dec. 8  | [Review for Final Exam](./Dec-8.md)
 Dec. 9  | | Due: [Final Project](https://iu.instructure.com/courses/2081910/assignments/14243610)
 Dec. 13 | **Final Exam** 12:40-2:40pm in class
 
